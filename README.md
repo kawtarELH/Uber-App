@@ -1,4 +1,5 @@
-# Project Banner
+![image](https://github.com/user-attachments/assets/d4c52f2f-3b40-4fd0-81f5-a07b2dab1483)
+
 
 **React Native | PostgreSQL | Expo | Stripe**
 
@@ -51,4 +52,5 @@ The **Uber Clone** app is built using **React Native** for the user interface, *
 
 ---
 
+![image](https://github.com/user-attachments/assets/9bdce2cb-f498-452b-b6e7-6e4c19d5ef4a)
 
