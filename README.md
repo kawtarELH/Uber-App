@@ -1,50 +1,54 @@
-# Welcome to your Expo app 👋
+# Project Banner
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**React Native | PostgreSQL | Expo | Stripe**
 
-## Get started
+## 📋 Table of Contents
+- 🤖 Introduction
+- ⚙️ Tech Stack
+- 🔋 Features
+- 🤸 Quick Start
+- 🕸️ Snippets (Code to Copy)
+- 🖇️ Links
+- 📦 Assets
+- 🚀 More
+- 🚨 Tutorial
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🤖 Introduction
+The **Uber Clone** app is built using **React Native** for the user interface, **Google Maps** for rendering maps and directions, **Stripe** for handling payments, serverless **PostgreSQL** for database management, and styled with **Tailwind CSS**. This project demonstrates how to develop full-stack mobile applications with robust features, showcasing skills that leave a lasting impression.
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## ⚙️ Tech Stack
+- **React Native**
+- **Expo**
+- **Stripe**
+- **PostgreSQL**
+- **Google Maps**
+- **Zustand**
+- **Clerk**
+- **Tailwind CSS**
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🔋 Features
+- **Onboarding Flow**: Seamless user registration and setup process.
+- **Email Password Authentication with Verification**: Secure login with email verification.
+- **oAuth Using Google**: Easy login with Google credentials.
+- **Authorization**: Secure role-based access control.
+- **Home Screen with Live Location & Google Map**: Real-time location tracking and map markers.
+- **Recent Rides**: Quick view of ride history.
+- **Google Places Autocomplete**: Intuitive location search with autocomplete.
+- **Find Rides**: Search for rides by inputting 'From' and 'To' locations.
+- **Select Rides from Map**: Choose available cars from the map.
+- **Confirm Ride with Detailed Information**: View ride details, time, and fare.
+- **Pay for Ride Using Stripe**: Multiple payment methods, including cards.
+- **Create Rides After Successful Payment**: Confirm and book rides post-payment.
+- **Profile**: Manage account details on the profile screen.
+- **History**: Review all booked rides.
+- **Responsive on Android and iOS**: Optimized for both platforms.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
